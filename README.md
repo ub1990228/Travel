@@ -10,3 +10,5 @@
 app为Flask程序的包名，该文件下还有home(前台)和admin(后台)两个包，每个包下有__init__.py(初始文件)、forms.py(表单文件)和views.py(路由文件)
 
 requirements列出所有依赖包，便于在其它电脑重新生成相同的虚拟环境
+
+travel.sql为数据库文件，可直接添加到数据库中
